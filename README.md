@@ -6,7 +6,7 @@ target="_blank">
 <button> หน้าปก 📍 </button>
 </a>
 
-<a href="https://drive.google.com/file/d/1y5XdF6s5gm4nrTIPNxihbsIolYSZsB2x/view?usp=sharing"
+<a href="https://drive.google.com/file/d/1tzHnp1Hrq8sgSoHjYCKWDa2Ox_-6CfJO/view?usp=sharing"
 target="_blank">
 <button> SOP 📍 </button>
 </a>
@@ -16,9 +16,9 @@ target="_blank">
 <button> ประวัติส่วนตัว📍 </button>
 </a>
 
-<a href="https://drive.google.com/file/d/1QA3yqt6f11N0z_YMlDr4RuBtmmGfWPcx/view?usp=sharing"
+<a href="https://drive.google.com/file/d/1AxPa9Cm31mPUECekgG1OQgEQVqiAki3s/view?usp=sharing"
 target="_blank">
-<button> SOP 📍 </button>
+<button> ใบแสดงผลการเรียน 📍 </button>
 </a>
 
 <a href="https://drive.google.com/file/d/1GxjLfNntpXKYomBxYGC5KLvptHNeKeFr/view?usp=sharing"
